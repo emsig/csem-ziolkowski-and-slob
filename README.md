@@ -1,5 +1,7 @@
 # Numerical Examples of Ziolkowski and Slob (2019)
 
+[![DOI](https://zenodo.org/badge/119286845.svg)](https://zenodo.org/badge/latestdoi/119286845)
+
 The notebooks in this repository reproduce the numerical examples given in
 Chapter 5 of the following book:
 
