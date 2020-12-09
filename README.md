@@ -33,7 +33,7 @@ geoscience and petroleum engineering.*
 
 The original figures in the book were created by Evert Slob in Matlab, using
 the formulae as given in the book. The figures presented here are reproductions
-using the Python modeller [empymod](https://empymod.github.io) ([Werthmüller,
+using the Python modeller [empymod](https://emsig.github.io) ([Werthmüller,
 2017](http://doi.org/10.1190/geo2016-0626.1)), which uses the derivations as
 given in [Hunziker et al. (2015)](http://doi.org/10.1190/geo2013-0411.1) and
 [Slob et al. (2010)](http://doi.org/10.2528/PIER10052807). Both solutions are
@@ -83,10 +83,10 @@ it automatically.
 ### Using the newest versions of the notebooks and empymod
 
 Make sure your installation of Python meets the requirements. Follow the
-instructions on [empymod.github.io](https://empymod.github.io) to install the
+instructions on [emsig.github.io](https://emsig.github.io) to install the
 newest version of empymod using `conda` or `pip`. The maintained versions of
 the notebooks are available at
-[github.com/empymod/csem-ziolkowski-and-slob](https://github.com/empymod/csem-ziolkowski-and-slob).
+[github.com/emsig/csem-ziolkowski-and-slob](https://github.com/emsig/csem-ziolkowski-and-slob).
 
 
 ## References
